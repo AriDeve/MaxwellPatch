@@ -1,0 +1,7 @@
+.idea
+MaxwellPatch.sln.DotSettings.user
+bin
+obj
+
+packages/*
+!packages/Add your reference DLLs here
